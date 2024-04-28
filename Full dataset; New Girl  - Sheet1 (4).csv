@@ -1,0 +1,22 @@
+id,unique ,funny,talking,jokes ,scene_length ,style_humor
+s.1_e.3,0:00-1:50,5,men,6,67.8,aggressive_humor
+s.1_e.3,9:30-10:52,4,women,5,75.6,affiliative_humor
+s.1_e.3,17:27-20:05,6,both,6,123,self-defeating
+s.2_e.7,0:00-1:40,6,men,7,61.2,aggressive_humor
+s.2_e.7,13:50-14:29,3,men,3,27.1,affiliative_humor
+s.2_e.7,19:53-20:50,6,both,5,56.7,affiliative_humor
+s.3_e.3,0:00-1:50,7,both,6,92.4,affiliative_humor
+s.3_e.3,7:12-8:05,6,men,4,25.8,self-enhancing
+s.3_e.3,10:30-11:00,3,men,2,9.75,aggressive_humor
+s.4_e.6,0:00-2:30,8,both,10,83.4,aggressive_humor
+s.4_e.6,10:16-11:30,8,men,7,38.9,affiliative_humor
+s.4_e.6,17.46-19:15,8,both,6,87,affiliative_humor
+s.5_e.11 ,0:00-1:45,7,women,6,59.4,self-defeating
+s.5_e.11 ,7:23-9:05,8,men,7,48.8,affiliative_humor
+s.5_e.11 ,14:10-15:18,5,women,5,64.2,self-defeating
+s.6_e.3,0:00-0:40,4,men,3,45,self-enhancing
+s.6_e.3,7:36-8:08,5,men,4,6.9,self-enhancing
+s.6_e.3 ,14:03-15:13,4,both,4,60,self-enhancing
+s.7_e.7,0:00-2:10,8,both,9,68.4,aggressive_humor
+s.7_e.7 ,9:33-10:55,8,men,6,0,self-defeating
+s.7_e.7 ,16:30-18:28,6,both,4,63.6,self-defeating
